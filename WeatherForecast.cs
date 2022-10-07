@@ -1,4 +1,4 @@
-namespace azuretest;
+namespace sharestaticfiles;
 
 public class WeatherForecast
 {
