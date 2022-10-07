@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace azuretest.Controllers;
+namespace sharestaticfiles.Controllers;
 
 [ApiController]
 [Route("[controller]")]

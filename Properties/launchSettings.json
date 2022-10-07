@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "azuretest": {
+    "sharestaticfiles": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
